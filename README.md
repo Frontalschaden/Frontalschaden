@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything about Oracle Databases
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: what?
+- 😄 Pronouns: Excuse me
 - ⚡ Fun fact: 
 
 <!---
